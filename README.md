@@ -12,3 +12,12 @@ Portfolio
  
 
 <img src="./aws-academy-graduate-aws-academy-data-analytics (2).png" width="100" height="100" alt="Meta Full-Stack Engineer" title="Meta Full-Stack Engineer" />
+
+
+<img src="./aws-academy-graduate-aws-academy-data-analytics (2).png" width="100" height="100" alt="Meta Full-Stack Engineer" title="Meta Full-Stack Engineer" />
+
+
+<img src="./aws-academy-graduate-aws-academy-data-analytics (2).png" width="100" height="100" alt="Meta Full-Stack Engineer" title="Meta Full-Stack Engineer" />
+
+
+<img src="./aws-academy-graduate-aws-academy-data-analytics (2).png" width="100" height="100" alt="Meta Full-Stack Engineer" title="Meta Full-Stack Engineer" />
