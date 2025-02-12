@@ -1,7 +1,7 @@
  Hi there 👋
   
  
-- 📫 How to reach me: hasini.miryala7585@gmail.com
+- 📫 How to reach me: hasini.miryala1010@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I hate dogs but I love my dog.
 
