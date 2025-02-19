@@ -3,7 +3,7 @@
  
 - 📫 How to reach me: hasini.miryala1010@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I hate dogs but I love my dog.
+- ⚡ Fun fact: I’m not a big fan of dogs, but my dog is the exception.
 
 Credly Profile
 https://www.credly.com/users/hasini-miryala
