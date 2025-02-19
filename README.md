@@ -10,7 +10,7 @@ https://www.credly.com/users/hasini-miryala
 LinkedIn Profile
 https://www.linkedin.com/in/hasinimiryala/
 Portfolio 
- 
+https://hasinimiryala1010.netlify.app/
 
 <img src="./aws-academy-graduate-aws-academy-data-analytics (2).png" width="100" height="100" alt="Meta Full-Stack Engineer" title="Meta Full-Stack Engineer" />
 
