@@ -8,7 +8,7 @@
 Credly Profile
 https://www.credly.com/users/hasini-miryala
 LinkedIn Profile
-
+https://www.linkedin.com/in/hasinimiryala/
 Portfolio 
  
 
