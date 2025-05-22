@@ -21,4 +21,6 @@ https://hasinimiryala1010.netlify.app/
 <img src="./aws-academy-graduate-aws-academy-cloud-architecting.png" width="100" height="100" alt="Meta Full-Stack Engineer" title="Meta Full-Stack Engineer" />
 
 <img src="./meta-front-end-developer-certificate.png" width="100" height="100" alt="Meta Full-Stack Engineer" title="Meta Full-Stack Engineer" />
+
+<img src="./Solution Architect badge.png" width="100" height="100" alt="AWS Solution Architect" title="AWS Solution Architect-Associate" />
  
